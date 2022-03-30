@@ -1,0 +1,8 @@
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\bin\Debug\GarciaBernardo_EX2.exe.config
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\bin\Debug\GarciaBernardo_EX2.exe
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\bin\Debug\GarciaBernardo_EX2.pdb
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\obj\Debug\GarciaBernardo_EX2.csproj.AssemblyReference.cache
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\obj\Debug\GarciaBernardo_EX2.csproj.SuggestedBindingRedirects.cache
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\obj\Debug\GarciaBernardo_EX2.csproj.CoreCompileInputs.cache
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\obj\Debug\GarciaBernardo_EX2.exe
+D:\Proyectos Progra III\GarciaBernardo_EX2\GarciaBernardo_EX2\obj\Debug\GarciaBernardo_EX2.pdb
